@@ -1,0 +1,3 @@
+[submodule "tracking-correios-backend"]
+	path = tracking-correios-backend
+	url = https://github.com/ygortgaleno/tracking-correios-backend
